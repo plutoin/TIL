@@ -141,7 +141,7 @@ _이텔릭_
 CSS에서 `background` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 ```
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75b51cf1-64a7-45ae-913e-73d2e2a4c47c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210730%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210730T175000Z&X-Amz-Expires=86400&X-Amz-Signature=ab7166740815b7270fd2ad429a48cdcb31a55bcc27ebfec517519b3b29c184b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="300px" >ㄴ
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75b51cf1-64a7-45ae-913e-73d2e2a4c47c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210730%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210730T175000Z&X-Amz-Expires=86400&X-Amz-Signature=ab7166740815b7270fd2ad429a48cdcb31a55bcc27ebfec517519b3b29c184b3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="300px" >
 
 #### 2. 코드 강조
 
