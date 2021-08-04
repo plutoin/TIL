@@ -47,3 +47,7 @@
   - [콜백(Callback)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%EC%BD%9C%EB%B0%B1(Callback).md)
 
 - JS 클래스
+  - [생성자 함수(prototype)]
+  - [this]
+  - [ES6 Classes]
+  - [상속(확장)]
