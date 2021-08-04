@@ -1,26 +1,31 @@
 ## 📝 Today I Learned
 
-## HTML  
+### HTML  
   - [개념](https://github.com/plutoin/TIL/blob/master/HTML/%EA%B0%9C%EB%85%90.md)
   - [DTD](https://github.com/plutoin/TIL/blob/master/HTML/DTD.md)
   - [태그](https://github.com/plutoin/TIL/blob/master/HTML/%ED%83%9C%EA%B7%B8.md)
   - [요소](https://github.com/plutoin/TIL/blob/master/HTML/%EC%9A%94%EC%86%8C.md)
 
-## CSS
+
+### CSS
   - [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
   - [속성](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1.md)
 
-## GIT
+
+### GIT
   - [버전 관리](https://github.com/plutoin/TIL/blob/master/Git/%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC.md)
   - [Markdown](https://github.com/plutoin/TIL/blob/master/Git/Markdown.md)
 
-## JS
+
+### JS
+
 - Node.js
   - [Node.js](https://github.com/plutoin/TIL/blob/master/JS/Node.js/Node.md)
   - [nvm 설치](https://github.com/plutoin/TIL/blob/master/JS/Node.js/nvm%20%EC%84%A4%EC%B9%98.md)
   - [npm](https://github.com/plutoin/TIL/blob/master/JS/Node.js/npm.md)
   - [개발 서버 실행과 빌드](https://github.com/plutoin/TIL/blob/master/JS/Node.js/%EA%B0%9C%EB%B0%9C%20%EC%84%9C%EB%B2%84%20%EC%8B%A4%ED%96%89%EA%B3%BC%20%EB%B9%8C%EB%93%9C.md)
   - [유의적 버전(SemVer)](https://github.com/plutoin/TIL/blob/master/JS/Node.js/%EC%9C%A0%EC%9D%98%EC%A0%81%20%EB%B2%84%EC%A0%84.md)
+
 - JS 기초
   - [작성법 종류](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EC%9E%91%EC%84%B1%EB%B2%95%20%EC%A2%85%EB%A5%98.md)
   - [데이터 종류](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
@@ -40,3 +45,5 @@
   - [호이스팅(Hoisting)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85(Hoisting).md)
   - [타이머 함수](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%ED%83%80%EC%9D%B4%EB%A8%B8%20%ED%95%A8%EC%88%98.md)
   - [콜백(Callback)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%EC%BD%9C%EB%B0%B1(Callback).md)
+
+- JS 클래스
