@@ -13,7 +13,7 @@ const double = function () {
 }
 ```
 
-→ TypeError 발생, double 함수가 만들어지기 전에 호출했기 때문
+→ TypeError 발생, `double` 함수가 만들어지기 전에 호출했기 때문
 
 ```jsx
 const a = 7
