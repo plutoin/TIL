@@ -47,7 +47,7 @@
   - [콜백(Callback)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%EC%BD%9C%EB%B0%B1(Callback).md)
 
 - JS 클래스
-  - [생성자 함수(prototype)]
-  - [this]
-  - [ES6 Classes]
-  - [상속(확장)]
+  - [생성자 함수(prototype)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98(prototype).md)
+  - [this](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/this.md)
+  - [ES6 Classes](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/ES6%20Classes.md)
+  - [상속(확장)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EC%86%8D(%ED%99%95%EC%9E%A5).md)
