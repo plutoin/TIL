@@ -30,7 +30,7 @@
   - [DOM API](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/DOM%20API.md)
   - [메소드 체이닝(Method Chaining)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/Method%20Chaining.md)
   - [ECMASCript 및 프로젝트 초기화](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/ECMAScript%20%EB%B0%8F%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B4%88%EA%B8%B0%ED%99%94.md)
-  - [데이터 타입 확인]
+  - [데이터 타입 확인](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%ED%99%95%EC%9D%B8.md)
   - [연산자](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 
 - JS 함수
