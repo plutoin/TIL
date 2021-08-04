@@ -1,23 +1,23 @@
 ## 📝 Today I Learned
 
-## HTML  
+### HTML  
   - [개념](https://github.com/plutoin/TIL/blob/master/HTML/%EA%B0%9C%EB%85%90.md)
   - [DTD](https://github.com/plutoin/TIL/blob/master/HTML/DTD.md)
   - [태그](https://github.com/plutoin/TIL/blob/master/HTML/%ED%83%9C%EA%B7%B8.md)
   - [요소](https://github.com/plutoin/TIL/blob/master/HTML/%EC%9A%94%EC%86%8C.md)
 
 
-## CSS
+### CSS
   - [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
   - [속성](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1.md)
 
 
-## GIT
+### Git
   - [버전 관리](https://github.com/plutoin/TIL/blob/master/Git/%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC.md)
   - [Markdown](https://github.com/plutoin/TIL/blob/master/Git/Markdown.md)
 
 
-## JS
+### JS
 
 - Node.js
   - [Node.js](https://github.com/plutoin/TIL/blob/master/JS/Node.js/Node.md)
