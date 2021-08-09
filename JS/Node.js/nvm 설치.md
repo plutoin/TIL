@@ -36,7 +36,7 @@ nvm ls
 ```
 
 아래의 내용 나오면 성공  
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/000cebe2-ed0b-424e-9863-7894a8b20aed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210730%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210730T182249Z&X-Amz-Expires=86400&X-Amz-Signature=0957b4ae5aaf26bb203ab3cff2f3cf84353f74902c4b7b9ae43dc706512d0bfd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" width="300px" />
+<img src="../images/1-2-1.png" width="300px" />
 
 
 - node.js 설치

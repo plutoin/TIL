@@ -51,3 +51,13 @@
   - [this](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/this.md)
   - [ES6 Classes](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/ES6%20Classes.md)
   - [상속(확장)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EC%86%8D(%ED%99%95%EC%9E%A5).md)
+
+- JS 데이터
+  - [문자]
+  - [숫자와 수학]
+  - [배열]
+  - [객체]
+  - [구조 분해 할당]
+  - [전개 연산자]
+  - [불변성]
+  - [얕은 복사와 깊은 복사]
