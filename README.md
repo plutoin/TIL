@@ -53,11 +53,11 @@
   - [상속(확장)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EC%86%8D(%ED%99%95%EC%9E%A5).md)
 
 - JS 데이터
-  - [문자]
-  - [숫자와 수학]
-  - [배열]
-  - [객체]
-  - [구조 분해 할당]
-  - [전개 연산자]
-  - [불변성]
-  - [얕은 복사와 깊은 복사]
+  - [문자](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%AC%B8%EC%9E%90.md)
+  - [숫자와 수학](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%88%AB%EC%9E%90%EC%99%80%20%EC%88%98%ED%95%99.md)
+  - [배열](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B0%B0%EC%97%B4.md)
+  - [객체](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EA%B0%9D%EC%B2%B4.md)
+  - [구조 분해 할당](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EA%B5%AC%EC%A1%B0%20%EB%B6%84%ED%95%B4%20%ED%95%A0%EB%8B%B9.md)
+  - [전개 연산자](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%A0%84%EA%B0%9C%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+  - [불변성](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B6%88%EB%B3%80%EC%84%B1.md)
+  - [얕은 복사와 깊은 복사](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC.md)
