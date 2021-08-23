@@ -41,7 +41,7 @@ const obj = JSON.parse(str)
 console.log('obj', obj)
 ```
 
-<img src = "../images/6-3-1.png" width="450px"/>
+<img src = "../images/6-3-1.png" width="500px"/>
 
 <br/>
 
@@ -107,7 +107,7 @@ import myData from './myData.json' // 확장자 생략은 JS 파일만 가능
 console.log(myData)
 ```
 
-<img src = "../images/6-3-2.png" width="450px"/>
+<img src = "../images/6-3-2.png" width="500px"/>
 
 → `JSON` 파일은 문자 데이터임을 알 수 있음
 
