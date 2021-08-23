@@ -83,6 +83,8 @@ false
 
 → JSON 파일은 하나의 데이터이므로 여러 개의 데이터 동시 포함 불가능
 
+<br/>
+
 객체 데이터 생성
 
 ```json
@@ -103,10 +105,11 @@ import myData from './myData.json' // 확장자 생략은 JS 파일만 가능
 console.log(myData)
 ```
 
-<img src = "../images/6-3-2.png" width="400px"/>
+<img src = "../images/6-3-2.png" width="450px"/>
 
 → `JSON` 파일은 문자 데이터임을 알 수 있음
 
+<br/>
 
 ```jsx
 const str = JSON.stringify(user)
