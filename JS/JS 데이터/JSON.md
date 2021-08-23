@@ -41,7 +41,7 @@ const obj = JSON.parse(str)
 console.log('obj', obj)
 ```
 
-<img src = "../images/6-3-1.png" width="400px"/>
+<img src = "../images/6-3-1.png" width="450px"/>
 
 <br/>
 
@@ -124,6 +124,8 @@ console.log(typeof str)
 
 - `JSON`은 하나의 문자 데이터로 관리됨
 - `stringify`: JS 파일 내부의 특정 데이터를 JSON의 형태로 문자 데이터화해 주는 것
+
+<br/>
 
 ```jsx
 const obj = JSON.parse(str)
