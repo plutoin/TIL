@@ -66,9 +66,9 @@
   - [JSON](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/JSON.md)
   - [Storage](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Storage.md)
   - [OMDb API](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/OMDb%20API.md)
-  
+
 - 정규표현식
-  - [메소드]
-  - [정규식]
-  - [플래그(옵션)]
-  - [패턴(표현)]
+  - [메소드](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%EB%A9%94%EC%86%8C%EB%93%9C.md)
+  - [정규식](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
+  - [플래그(옵션)](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%ED%94%8C%EB%9E%98%EA%B7%B8(%EC%98%B5%EC%85%98).md)
+  - [패턴(표현)](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%ED%8C%A8%ED%84%B4(%ED%91%9C%ED%98%84).md)
