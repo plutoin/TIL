@@ -72,7 +72,7 @@ const user = {
 }
 ```
 
----
+<br/>
 
 `myData.json` 파일 생성
 
