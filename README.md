@@ -8,8 +8,18 @@
 
 
 ### CSS
-  - [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
-  - [속성](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1.md)
+- 속성
+  - [너비와 단위]
+  - [border]
+  - [margin / padding]
+  - [box-sizing]
+  - [overflow]
+  - [display / opacity]
+  - [글꼴과 문자]
+  - [background]
+  - [배치]
+- [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
+  
 
 
 ### Git
