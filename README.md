@@ -91,5 +91,5 @@
 ### TypeScript
 
   - TypeScript
-    - [개념]
-    - [설치 및 사용]
+    - [개념](https://github.com/plutoin/TIL/blob/master/TypeScript/%EA%B0%9C%EB%85%90.md)
+    - [설치 및 사용](https://github.com/plutoin/TIL/blob/master/TypeScript/%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9.md)
