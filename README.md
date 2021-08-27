@@ -14,14 +14,14 @@
   - [여백(margin / padding)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/margin%20padding.md)
   - [box-sizing](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/box-sizing.md)
   - [넘침 제어(overflow)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/overflow.md)
-  - [display / opacity](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/display%20opacity.md)
+  - [화면 출력과 투명도(display / opacity)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/display%20opacity.md)
   - [글꼴과 문자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EA%B8%80%EA%BC%B4%EA%B3%BC%20%EB%AC%B8%EC%9E%90.md)
   - [background](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/background.md)
   - [배치](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EB%B0%B0%EC%B9%98.md)
   - [플렉스 Container](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%ED%94%8C%EB%A0%89%EC%8A%A4%20Container.md)
   - [플렉스 Items](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%ED%94%8C%EB%A0%89%EC%8A%A4%20Items.md)
-  - [전환(transition)]
-  - [변환(transform / perspective)]
+  - [전환(transition)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/transition.md)
+  - [변환(transform)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/transform%20perspective.md)
 - [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
   
 
