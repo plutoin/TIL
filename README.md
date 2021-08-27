@@ -9,17 +9,19 @@
 
 ### CSS
 - 속성
-  - [너비와 단위](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EB%84%88%EB%B9%84%EC%99%80%20%EB%8B%A8%EC%9C%84.md)
-  - [border](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/border.md)
-  - [margin / padding](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/margin%20padding.md)
+  - [너비(width / height)와 단위](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EB%84%88%EB%B9%84%EC%99%80%20%EB%8B%A8%EC%9C%84.md)
+  - [테두리(border)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/border.md)
+  - [여백(margin / padding)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/margin%20padding.md)
   - [box-sizing](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/box-sizing.md)
-  - [overflow](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/overflow.md)
+  - [넘침 제어(overflow)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/overflow.md)
   - [display / opacity](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/display%20opacity.md)
   - [글꼴과 문자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EA%B8%80%EA%BC%B4%EA%B3%BC%20%EB%AC%B8%EC%9E%90.md)
   - [background](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/background.md)
   - [배치](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EB%B0%B0%EC%B9%98.md)
   - [플렉스 Container](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%ED%94%8C%EB%A0%89%EC%8A%A4%20Container.md)
   - [플렉스 Items](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%ED%94%8C%EB%A0%89%EC%8A%A4%20Items.md)
+  - [전환(transition)]
+  - [변환(transform / perspective)]
 - [선택자](https://github.com/plutoin/TIL/blob/master/CSS/%EC%84%A0%ED%83%9D%EC%9E%90.md)
   
 
