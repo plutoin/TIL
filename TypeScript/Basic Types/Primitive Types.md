@@ -1,5 +1,3 @@
-## Primitive Types
-
 ## TypeScript Types vs JavaScript Types
 #### TypeScript
 
