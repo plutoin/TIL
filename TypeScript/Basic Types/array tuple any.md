@@ -18,6 +18,8 @@ let list3: (number | string)[] = [1, 2, 3, "4"];
 
 → 여러 타입을 한 배열에서 사용할 때는 `union` 타입 사용
 
+<br/>
+
 ## Tuple
 
 ```tsx
@@ -43,6 +45,8 @@ const [first, second, third] = person;
 ```
 
 → third는 들어갈 자리가 없으므로 오류
+
+<br/>
 
 ## any
 

@@ -54,6 +54,8 @@ const result = add(39, 28);
     - Enum
     - Tuple: object 형
 
+<br/>    
+
 ## Primitive Types
 
 - `object`와 `reference` 형태가 아닌 실제 값을 저장하는 자료형

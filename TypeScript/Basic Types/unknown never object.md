@@ -35,6 +35,8 @@ if (typeof maybe === 'string') {
 }
 ```
 
+<br/>
+
 ## never
 
 #### 특징
@@ -76,6 +78,8 @@ type Objectindexable = Indexable<{}>;
 ```
 
 → T가 `string`이면 T를 `{[index: string]: any}`로 만들어서 내보내고 아닐 경우 `never`로 인해 실행하지 않음
+
+<br/>
 
 ## void
 

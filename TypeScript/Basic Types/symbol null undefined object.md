@@ -12,7 +12,7 @@ ECMAScript 2015에 추가된 타입
 - 고유하고 수정 불가능한 값으로 만들어 줌
 - 주로 접근 제어에 사용
 
----
+<br/>
 
 ex 1)
 
@@ -40,7 +40,7 @@ console.log(Symbol('foo'));
 console.log(Symbol("foo") === Symbol("foo"));
 ```
 
-<img src="../images/2-3.png" width="600px" />
+<img src="../images/2-3.png" width="500px" />
 
 <br/>
 
@@ -55,6 +55,8 @@ const obj = {
 
 obj[sym] // obj["sym"]와 같이 문자열로 접근 불가능
 ```
+
+<br/>
 
 ## null & undefined
 
@@ -104,6 +106,8 @@ union = "Mark";
 - 무언가가 아예 준비되지 않은 상태
 - `object`의 `property`가 없을 때도 `undefined`
 - 런타임에서 `typeof` 연산자를 이용하면 `undefined` 반환
+
+<br/>
 
 ## object
 

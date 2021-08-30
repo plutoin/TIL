@@ -14,7 +14,7 @@ console.log(typeof isDone); // 'boolean'
 
 → isDone의 타입을 확인할 수 있는 `typeof` 사용 시 `boolean` 반환
 
-<img src="../images/2-1.png" width="600px" />
+<img src="../images/2-1.png" width="500px" />
 
 <br/>
 
@@ -27,6 +27,7 @@ let isNotOk: boolean = new Boolean(true);
 
 → 둘째 줄에서는 래퍼 객체 생성식이며 이러한 방식은 잘 사용하지 않음
 
+<br/>
 
 ## number
 
@@ -49,6 +50,8 @@ let notANumber: number = NaN; // 숫자가 아닌 값
 
 let underscoreNum: number = 1_000_000;
 ```
+
+<br/>
 
 ## string
 
@@ -79,4 +82,4 @@ let sentence: string = "Hello, my name is " + fullName + ".\n\n" +
 "I'll be " + ( age +1 ) + " years old next month.";
 ```
 
-<img src="../images/2-2.png" width="600px" />
+<img src="../images/2-2.png" width="500px" />
