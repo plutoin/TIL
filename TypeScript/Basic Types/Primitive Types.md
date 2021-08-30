@@ -1,4 +1,5 @@
 ## TypeScript Types vs JavaScript Types
+
 #### TypeScript
 
 - Static Types
@@ -52,8 +53,6 @@ const result = add(39, 28);
     - Any, Void, Never, Unknown
     - Enum
     - Tuple: object 형
-
----
 
 ## Primitive Types
 
