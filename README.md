@@ -8,7 +8,7 @@
 
 
 ### CSS
-- 속성
+- **속성**
   - [너비(width / height)와 단위](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/%EB%84%88%EB%B9%84%EC%99%80%20%EB%8B%A8%EC%9C%84.md)
   - [테두리(border)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/border.md)
   - [여백(margin / padding)](https://github.com/plutoin/TIL/blob/master/CSS/%EC%86%8D%EC%84%B1/margin%20padding.md)
@@ -33,14 +33,14 @@
 
 ### JS
 
-- Node.js
+- **Node.js**
   - [Node.js](https://github.com/plutoin/TIL/blob/master/JS/Node.js/Node.md)
   - [nvm 설치](https://github.com/plutoin/TIL/blob/master/JS/Node.js/nvm%20%EC%84%A4%EC%B9%98.md)
   - [npm](https://github.com/plutoin/TIL/blob/master/JS/Node.js/npm.md)
   - [개발 서버 실행과 빌드](https://github.com/plutoin/TIL/blob/master/JS/Node.js/%EA%B0%9C%EB%B0%9C%20%EC%84%9C%EB%B2%84%20%EC%8B%A4%ED%96%89%EA%B3%BC%20%EB%B9%8C%EB%93%9C.md)
   - [유의적 버전(SemVer)](https://github.com/plutoin/TIL/blob/master/JS/Node.js/%EC%9C%A0%EC%9D%98%EC%A0%81%20%EB%B2%84%EC%A0%84.md)
 
-- JS 기초
+- **JS 기초**
   - [작성법 종류](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EC%9E%91%EC%84%B1%EB%B2%95%20%EC%A2%85%EB%A5%98.md)
   - [데이터 종류](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md)
   - [변수](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EB%B3%80%EC%88%98.md)
@@ -52,7 +52,7 @@
   - [데이터 타입 확인](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%ED%99%95%EC%9D%B8.md)
   - [연산자](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EA%B8%B0%EC%B4%88/%EC%97%B0%EC%82%B0%EC%9E%90.md)
 
-- JS 함수
+- **JS 함수**
   - [함수 선언 및 표현](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%ED%95%A8%EC%88%98%20%EC%84%A0%EC%96%B8%20%EB%B0%8F%20%ED%91%9C%ED%98%84.md)
   - [화살표 함수](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%ED%99%94%EC%82%B4%ED%91%9C%20%ED%95%A8%EC%88%98.md)
   - [IIFE](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/IIFE.md)
@@ -60,13 +60,13 @@
   - [타이머 함수](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%ED%83%80%EC%9D%B4%EB%A8%B8%20%ED%95%A8%EC%88%98.md)
   - [콜백(Callback)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%95%A8%EC%88%98/%EC%BD%9C%EB%B0%B1(Callback).md)
 
-- JS 클래스
+- **JS 클래스**
   - [생성자 함수(prototype)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98(prototype).md)
   - [this](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/this.md)
   - [ES6 Classes](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/ES6%20Classes.md)
   - [상속(확장)](https://github.com/plutoin/TIL/blob/master/JS/JS%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EC%86%8D(%ED%99%95%EC%9E%A5).md)
 
-- JS 데이터
+- **JS 데이터**
   - [문자](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%AC%B8%EC%9E%90.md)
   - [숫자와 수학](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EC%88%AB%EC%9E%90%EC%99%80%20%EC%88%98%ED%95%99.md)
   - [배열](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B0%B0%EC%97%B4.md)
@@ -81,7 +81,7 @@
   - [Storage](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/Storage.md)
   - [OMDb API](https://github.com/plutoin/TIL/blob/master/JS/JS%20%EB%8D%B0%EC%9D%B4%ED%84%B0/OMDb%20API.md)
 
-- 정규표현식
+- **정규표현식**
   - [메소드](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%EB%A9%94%EC%86%8C%EB%93%9C.md)
   - [정규식](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%EC%A0%95%EA%B7%9C%EC%8B%9D.md)
   - [플래그(옵션)](https://github.com/plutoin/TIL/blob/master/JS/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/%ED%94%8C%EB%9E%98%EA%B7%B8(%EC%98%B5%EC%85%98).md)
@@ -93,9 +93,15 @@
   - [설치 및 사용](https://github.com/plutoin/TIL/blob/master/TypeScript/%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%82%AC%EC%9A%A9.md)
   - [Type Annotation](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20Annotation.md)
 
-  - Basic Types
+  - **Basic Types**
     - [Primitive Types](https://github.com/plutoin/TIL/blob/master/TypeScript/Basic%20Types/Primitive%20Types.md)
     - [boolean / number /string](https://github.com/plutoin/TIL/blob/master/TypeScript/Basic%20Types/boolean%20number%20string.md)
     - [symbol / null & undefined / object](https://github.com/plutoin/TIL/blob/master/TypeScript/Basic%20Types/symbol%20null%20undefined%20object.md)
     - [array / tuple / any](https://github.com/plutoin/TIL/blob/master/TypeScript/Basic%20Types/array%20tuple%20any.md)
     - [unknown / never / void](https://github.com/plutoin/TIL/blob/master/TypeScript/Basic%20Types/unknown%20never%20object.md)
+
+- **Type System**
+  - [작성자와 사용자의 관점으로 코드 바라보기](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/%EC%9E%91%EC%84%B1%EC%9E%90%EC%99%80%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EA%B4%80%EC%A0%90.md)
+  - [Structural Type System vs Nominal Type System](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/Structural%20Type%20System%20vs%20Nominal%20Type%20System.md)
+  - [타입 호환성(Type Compatibility)](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/%ED%83%80%EC%9E%85%20%ED%98%B8%ED%99%98%EC%84%B1(Type%20Compatibility).md)
+  - [타입 별칭 (Type Alias)](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/%ED%83%80%EC%9E%85%20%EB%B3%84%EC%B9%AD(Type%20Alias).md)
