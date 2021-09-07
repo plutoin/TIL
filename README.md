@@ -105,3 +105,7 @@
   - [Structural Type System vs Nominal Type System](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/Structural%20Type%20System%20vs%20Nominal%20Type%20System.md)
   - [타입 호환성(Type Compatibility)](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/%ED%83%80%EC%9E%85%20%ED%98%B8%ED%99%98%EC%84%B1(Type%20Compatibility).md)
   - [타입 별칭 (Type Alias)](https://github.com/plutoin/TIL/blob/master/TypeScript/Type%20System/%ED%83%80%EC%9E%85%20%EB%B3%84%EC%B9%AD(Type%20Alias).md)
+
+- **TypeScript Compiler**
+  - [extends, files, include, exclude](https://github.com/plutoin/TIL/blob/master/TypeScript/TypeScript%20Compiler/extends%2C%20files%2C%20include%2C%20exclude.md)
+  - [compileOptions](https://github.com/plutoin/TIL/blob/master/TypeScript/TypeScript%20Compiler/compileOptions.md)
