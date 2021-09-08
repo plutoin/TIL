@@ -108,7 +108,7 @@ let mi: MergingInterface;
 mi.
 ```
 
-<img src="../images/4-2.png" width="500px" />
+<img src="../images/4-2.png" width="600px" />
 
 → `MergingInterface`를 사용할 때는 선언이 하나로 합쳐져서 실행
 
@@ -126,6 +126,6 @@ type MergingType = {
 };
 ```
 
-<img src="../images/4-3.png" width="500px" />
+<img src="../images/4-3.png" width="600px" />
 
 → `alias`에서는 불가능
