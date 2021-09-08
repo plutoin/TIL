@@ -113,6 +113,6 @@
 - **Interfaces**
   - [개념](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/%EA%B0%9C%EB%85%90.md)
   - [optional property](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/optional%20property.md)
-  - [function / class implements](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/function%2C%20class%20implements.md)
+  - [function / implements](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/function%2C%20class%20implements.md)
   - [extends / function interface / readonly](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/extends.%20function%20interface%2C%20readonly.md)
   - [type alias vs interface](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/alias%20vs%20interface.md)
