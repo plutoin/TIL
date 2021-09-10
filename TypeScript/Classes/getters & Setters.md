@@ -37,7 +37,7 @@ p1.name = 'Anne'; // set
 console.log(p1.name)
 ```
 
-<img src="../images/5-2.png" width="100px" />
+<img src="../images/5-2.png" width="150px" />
 
 → `get`에서 Mark를 가지고 오고 set 이후 Anne를 get 해 오는 걸 확인 가능
 
@@ -62,4 +62,4 @@ p1.name = 'Anne'; // set
 console.log(p1.name)
 ```
 
-<img src="../images/5-3.png" width="500px" />
+<img src="../images/5-7.png" width="150px" />
