@@ -118,13 +118,13 @@
   - [type alias vs interface](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/alias%20vs%20interface.md)
 
 - **Classes**
-  - [Class]
-  - [constructor & initialize]
-  - [접근 제어자(Access Modifiers)]
-  - [Getters & Setters]
-  - [readonly properties]
-  - [Index Signatures in class]
-  - [Static Properties & Methods]
-  - [Singletons]
-  - [상속(Inheritance)]
-  - [Abstract Classes]
+  - [Class](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Class.md)
+  - [constructor & initialize](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/constructor%20%26%20initialize.md)
+  - [접근 제어자(Access Modifiers)](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/%EC%A0%91%EA%B7%BC%EC%A7%80%EC%A0%95%EC%9E%90.md)
+  - [Getters & Setters](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/getters%20%26%20Setters.md)
+  - [readonly properties](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/readonly.md)
+  - [Index Signatures in class](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Index%20Signatures%20in%20class.md)
+  - [Static Properties & Methods](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/static%20properties%20%26%20methods.md)
+  - [Singletons](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Singletons.md)
+  - [상속(Inheritance)](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/%EC%83%81%EC%86%8D.md)
+  - [Abstract Classes](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Abstract%20Classes.md)
