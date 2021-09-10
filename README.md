@@ -116,3 +116,15 @@
   - [function / implements](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/function%2C%20class%20implements.md)
   - [extends / function interface / readonly](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/extends.%20function%20interface%2C%20readonly.md)
   - [type alias vs interface](https://github.com/plutoin/TIL/blob/master/TypeScript/Interfaces/alias%20vs%20interface.md)
+
+- **Classes**
+  - [Class]
+  - [constructor & initialize]
+  - [접근 제어자(Access Modifiers)]
+  - [Getters & Setters]
+  - [readonly properties]
+  - [Index Signatures in class]
+  - [Static Properties & Methods]
+  - [Singletons]
+  - [상속(Inheritance)]
+  - [Abstract Classes]
