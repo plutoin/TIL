@@ -128,3 +128,6 @@
   - [Singletons](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Singletons.md)
   - [상속(Inheritance)](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/%EC%83%81%EC%86%8D.md)
   - [Abstract Classes](https://github.com/plutoin/TIL/blob/master/TypeScript/Classes/Abstract%20Classes.md)
+
+- **Generics**
+  -
