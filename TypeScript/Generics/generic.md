@@ -46,7 +46,7 @@ console.log(helloGeneric(true));
 
 <br/>
 
-## Generics Basic
+## Basic
 
 Generic 타입을 쓰지 않으면 T를 추론
 
