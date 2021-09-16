@@ -131,7 +131,7 @@
 
 - [**Generics**](https://github.com/plutoin/TIL/blob/master/TypeScript/Generics/generic.md)
 
-- SCSS
+### SCSS
   - [개요](https://github.com/plutoin/TIL/blob/master/SCSS/%EA%B0%9C%EC%9A%94.md)
   - [주석](https://github.com/plutoin/TIL/blob/master/SCSS/%EC%A3%BC%EC%84%9D.md)
   - [중첩](https://github.com/plutoin/TIL/blob/master/SCSS/%EC%A4%91%EC%B2%A9.md)
