@@ -145,7 +145,7 @@
   - [가져오기(@import)](https://github.com/plutoin/TIL/blob/master/SCSS/%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
   - [데이터 종류](https://github.com/plutoin/TIL/blob/master/SCSS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A2%85%EB%A5%98.md) 
 
-- BootStrap
+### BootStrap
   - [개요 및 CDN 프로젝트 생성](https://github.com/plutoin/TIL/blob/master/BootStrap/%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20CDN%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1.md)
   - [버튼과 버튼 그룹(btn / btn-group)](https://github.com/plutoin/TIL/blob/master/BootStrap/btn%20btn-group.md)
   - [드롭다운과 리스트(dropdown / list)](https://github.com/plutoin/TIL/blob/master/BootStrap/dropdown%20list.md)
