@@ -28,7 +28,7 @@ package.json 코드 입력
   ]
 ```
 
-`.postcssrc.js` 파일 생성
+.postcssrc.js 파일 생성
 
 - .로 시작하는 파일은 구성 옵션이나 숨김 파일을 의미
 - rc(Runtime Configuration)가 붙은 파일은 구성 파일
