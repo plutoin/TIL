@@ -69,4 +69,5 @@ body {
 ```
 
 개발 서버 오픈 후 결과
+
 <img src="../images/2-7.png" width="300px" />
