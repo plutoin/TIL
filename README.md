@@ -185,7 +185,7 @@
   - **Vue 문법**
     - [인스턴스 / 라이프사이클](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%99%80%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4.md)
     - [템플릿 문법](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%AC%B8%EB%B2%95.md)
-    - [Computed]
-    - [Computed 캐싱]
-    - [Getter / Setter]
-    - [Watch]
+    - [Computed](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/Computed.md)
+    - [Computed 캐싱](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/Computed%20%EC%BA%90%EC%8B%B1.md)
+    - [Getter / Setter](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/Getter%20Setter.md)
+    - [Watch](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/Watch.md)
