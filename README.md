@@ -196,8 +196,8 @@
       - [이벤트 수식어](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%88%98%EC%8B%9D%EC%96%B4.md)
       - [키 수식어](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%ED%82%A4%20%EC%88%98%EC%8B%9D%EC%96%B4.md)
     - [폼 입력 바인딩](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%ED%8F%BC%20%EC%9E%85%EB%A0%A5%20%EB%B0%94%EC%9D%B8%EB%94%A9.md)
-    - [v-model 수식어]
+    - [v-model 수식어](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/v-model%20%EC%88%98%EC%8B%9D%EC%96%B4.md)
     - 컴포넌트
-      - [기초]
-      - [속성 상속]
-      - [Emit]
+      - [기초](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B8%B0%EC%B4%88.md)
+      - [속성 상속](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%86%8D%EC%84%B1%20%EC%83%81%EC%86%8D.md)
+      - [Emit](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20Emit.md)
