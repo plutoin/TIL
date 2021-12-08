@@ -4,7 +4,7 @@ App.vue
 
 - `msg` 데이터가 출력되는 부분에 문자 데이터 ?? 추가
 
-```jsx
+```vue
 <template>
   <h1>{{ msg + '??' }}</h1>
 </template>
@@ -28,7 +28,7 @@ template 수정
 
 - `split`으로 문자 하나씩 쪼개서 배열로 만들기 → `reverse`로  뒤집기 → `join`으로 뒤집어진 단어들 합치기
 
-```jsx
+```vue
 <template>
   <h1>{{ msg.split('').reverse().join('') }}</h1>
 </template>
@@ -45,7 +45,7 @@ template 수정
 - `computed`에서 계산된 내용을 가져오는 것이기 때문에 `reversedMessage()`로 가져올 필요 없이 `reversedMessage`로 가져옴
 - `methods`는 삭제해도 무관
 
-```jsx
+```vue
 <template>
   <h1>{{ reversedMessage }}</h1>
   <h1>{{ reversedMessage }}</h1>

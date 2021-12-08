@@ -9,7 +9,7 @@ App.vue
     - 로직을 통해 값을 얻어내는 용도로만 사용
     - `Getter`라고 부름
 
-```jsx
+```vue
 <template>
   <button @click="add">
     ADD
@@ -60,7 +60,7 @@ export default {
 - 이 변경된 데이터가 뒤집어진 후 getter로 반환 후 반복적으로 출력되는 것
 - `set` 메소드에서 console.log(value)로 콘솔창에 미리 출력문 확인 가능
 
-```jsx
+```vue
 <script>
 export default {
   data() {

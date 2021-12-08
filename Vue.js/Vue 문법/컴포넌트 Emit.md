@@ -4,7 +4,7 @@ App.vue
 
 - `MyBtn` 컴포넌트 클릭 시 `log` 함수가 실행될 수 있는 구조
 
-```jsx
+```vue
 <template>
   <MyBtn @click="log">
     Banana
@@ -29,7 +29,7 @@ export default {
 
 MyBtn.vue
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -71,7 +71,7 @@ MyBtn.vue
 - `template`에서 `emit` 메소드를 통해 내용 작성 후 실행
 - `h1` 클릭 시 `emit` 통해 부모 요소에 연결되어 있는 `click` 이벤트 실행하게 됨
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -103,7 +103,7 @@ App.vue
 
 - `@click`을 `@heropy`로 변경
 
-```jsx
+```vue
 <template>
   <MyBtn @heropy="log">
     Banana
@@ -113,7 +113,7 @@ App.vue
 
 MyBtn.vue
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -138,7 +138,7 @@ export default {
 
 - `@dblclick` 이벤트 사용
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -157,7 +157,7 @@ export default {
 
 App.vue
 
-```jsx
+```vue
 <script>
 import MyBtn from '~/components/MyBtn'
 
@@ -177,7 +177,7 @@ export default {
 
 MyBtn.vue
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -207,7 +207,7 @@ MyBtn.vue
 - `msg`가 변경될 때마다 App.vue에서 내용을 확인하려고 함
     - `msg`가 실행되면 `this.$emit`을 통해 `changeMsg` 이벤트가 실행, 실제 데이터인 `msg` 데이터가 두 번째 인수로 넘어감
 
-```jsx
+```vue
 <template>
   <div class="btn">
     <slot></slot>
@@ -244,7 +244,7 @@ App.vue
 
 - html에서 속성의 이름은 카멜 케이스로 작성할 수 없기 때문에 `@change-msg`와 같이 작성
 
-```jsx
+```vue
 <template>
   <MyBtn
     @heropy="log"

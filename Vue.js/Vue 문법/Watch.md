@@ -14,7 +14,7 @@ App.vue
 - `changeMessage`를 통해 `msg`라는 데이터만 수정하더라도 계산된 데이터의 로직에 의해 원본의 데이터가 바뀌게 되면 계산된 데이터의 결과도 바뀜
 - `watch`를 통해 변경 감지된 경우 내부에 있는 로직 실행
 
-```jsx
+```vue
 <template>
   <h1 @click="changeMessage">
     {{ msg }}
@@ -60,7 +60,7 @@ export default {
 - `this.msg`와 `this.reversedMessage`를 `newValue`로 사용 가능
 - `newValue`: `msg`가 변경되었을 때 그 변경된 값
 
-```jsx
+```vue
 watch: {
     msg(newValue) {
       console.log('msg:', newValue)
