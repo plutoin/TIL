@@ -47,7 +47,7 @@ VS Code의 상태 표시줄에 eslint가 켜지도록 설정한 뒤 HelloWorld.v
 
 - 수정 전
 
-```jsx
+```vue
 <template>
   <img src="~assets/logo.png" alt="HEROPY">
 </template>
@@ -55,7 +55,7 @@ VS Code의 상태 표시줄에 eslint가 켜지도록 설정한 뒤 HelloWorld.v
 
 - eslint 규칙에 맞게 수정
 
-```jsx
+```vue
 <template>
   <img 
 		src="~assets/logo.png" 
@@ -150,7 +150,7 @@ HelloWorld.vue
 
 - 슬래시를 넣어도 오류 없음
 
-```jsx
+```vue
 <template>
   <img
     src="~assets/logo.png"
@@ -161,7 +161,7 @@ HelloWorld.vue
 - 빈 태그 추가
     - div 요소는 열리고 닫히는 구조를 가지고 있으므로 어색해 보임
 
-```jsx
+```vue
 <template>
   <img
     src="~assets/logo.png"
@@ -190,7 +190,7 @@ HelloWorld.vue
 
 수정 후 HelloWorld.vue
 
-```jsx
+```vue
 <template>
   <img
     src="~assets/logo.png"

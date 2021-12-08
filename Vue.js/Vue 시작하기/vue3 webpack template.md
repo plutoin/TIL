@@ -104,7 +104,7 @@ plugins: [
 6. App.vue 작성
 - Vue 프로젝트의 시작이 될 수 있도록
 
-```jsx
+```vue
 <template>
   <h1></h1>
 </template>
@@ -160,7 +160,7 @@ import App from './App'
 7. src 폴더 하위에 `HelloWorld.vue` 파일 생성
 - images 폴더 src 폴더 안으로 이동한 후 assets로 폴더명 변경
 
-```jsx
+```vue
 <template>
   <img src="~assets/logo.png" alt="HEROPY" />
 </template>
@@ -211,7 +211,7 @@ App.vue 파일 수정
 
 - `~` 를 src 폴더로 지정해 두었기 때문에 components 폴더 바로 찾기 가능
 
-```jsx
+```vue
 <template>
   <h1>{{ message }}</h1>
   <HelloWorld />
