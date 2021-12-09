@@ -201,3 +201,6 @@
       - [기초](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B8%B0%EC%B4%88.md)
       - [속성 상속](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%86%8D%EC%84%B1%20%EC%83%81%EC%86%8D.md)
       - [Emit](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20Emit.md)
+      - [Slot]
+      - [Provide / Inject]
+      - [Refs]
