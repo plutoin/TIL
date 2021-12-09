@@ -206,4 +206,4 @@
       - [Refs](https://github.com/plutoin/TIL/blob/master/Vue.js/Vue%20%EB%AC%B8%EB%B2%95/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20Refs.md)
     
     - **컴포지션 API**
-      - 
+      - 반응형 데이터
