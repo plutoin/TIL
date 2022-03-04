@@ -220,3 +220,7 @@
     - [VTU](https://github.com/plutoin/TIL/blob/master/Vue.js/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8/VTU.md)
     - [VTU API](https://github.com/plutoin/TIL/blob/master/Vue.js/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8/VTU%20API.md)
     - [mount / shallowMount](https://github.com/plutoin/TIL/blob/master/Vue.js/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8/mount%20shallowMount.md)
+  
+  - **E2E 테스트**
+    - [Cypress 설치 및 환경 구성](https://github.com/plutoin/TIL/blob/master/Vue.js/E2E%20%ED%85%8C%EC%8A%A4%ED%8A%B8/Cypress%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%84%B1.md)
+    - [Cypress API](https://github.com/plutoin/TIL/blob/master/Vue.js/E2E%20%ED%85%8C%EC%8A%A4%ED%8A%B8/Cypress%20API.md)
