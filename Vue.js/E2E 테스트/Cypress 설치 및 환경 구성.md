@@ -87,4 +87,4 @@ npm run dev
 npm run test:e2e
 ```
 
-<img src="../images/6-1.png" width="700px" />
+<img src="../images/6-1.png" width="900px" />
