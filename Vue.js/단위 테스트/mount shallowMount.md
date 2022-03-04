@@ -55,7 +55,7 @@ test('Mount', () => {
 })
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f8ad437-8824-4698-9138-5016f80969d3/Untitled.png)
+<img src="../images/5-20.png" width="500px" />
 
 <br/>
 
@@ -77,7 +77,7 @@ test('Mount', () => {
 })
 ```
 
-<img src="../images/5-20.png" width="500px" />
+<img src="../images/5-21.png" width="500px" />
 
 <br/>
 
