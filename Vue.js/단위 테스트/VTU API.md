@@ -34,8 +34,6 @@ test('attrs', () => {
 - html에 Hello World라는 문자 데이터가 있는지 테스트로 확인
 
 ```vue
-// Vue
-
 <template>
   <div>Hello {{ message }}</div>
 </template>
@@ -52,8 +50,6 @@ export default {
 ```
 
 ```jsx
-// JS
-
 import { mount } from '@vue/test-utils'
 import Component from './Component.vue'
 
@@ -137,8 +133,6 @@ test('global.plugins', () => {
 - wrapper 객체를 통해 class 값을 추출 및 bar라는 문자 데이터를 가지고 있는지 확인
 
 ```jsx
-// JS
-
 import { mount } from '@vue/test-utils'
 import Component from './Component.vue'
 
@@ -151,8 +145,6 @@ test('attributes', () => {
 ```
 
 ```vue
-// Vue
-
 <template>
   <div id="foo" :class="className" />
 </template>
@@ -190,8 +182,6 @@ test('exists', () => {
 - 메소드 체이닝으로 exists를 사용한다면 존재하는지 아닌지 여부까지 확인 가능
 
 ```vue
-// Vue
-
 <template>
   <span>Span</span>
   <span data-test="span">Span</span>
@@ -200,8 +190,6 @@ test('exists', () => {
 ```
 
 ```jsx
-// JS
-
 import { mount } from '@vue/test-utils'
 import Component from './Component.vue'
 
@@ -223,7 +211,6 @@ test('find', () => {
 - html에서 Count: 1이 포함되어 있는지 확인
 
 ```vue
-// Vue
 <template>
   <div>Count: {{ count }}</div>
 </template>
@@ -240,7 +227,6 @@ export default {
 ```
 
 ```jsx
-// JS
 import { mount } from '@vue/test-utils'
 import Component from './Component.vue'
 
@@ -260,7 +246,6 @@ test('setData', async () => {
 - 연결 해제 후 `unmounted` 라이프 사이클이 동작하며 unmounted!라는 문구 출력
 
 ```vue
-// Vue
 <script>
 export default {
   unmounted() {
@@ -271,7 +256,6 @@ export default {
 ```
 
 ```jsx
-// JS
 import { mount } from '@vue/test-utils'
 import Component from './Component.vue'
 
