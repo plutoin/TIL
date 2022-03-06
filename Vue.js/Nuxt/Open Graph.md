@@ -39,4 +39,4 @@ index.html
 <meta property="og:url" content="https://sleepy-noyce-17ee92.netlify.app/"/>
 ```
 
-<img src="../images/7-6.png" width="300px" />
+<img src="../images/7-6.png" width="350px" />
