@@ -226,3 +226,6 @@
     - [Cypress API](https://github.com/plutoin/TIL/blob/master/Vue.js/E2E%20%ED%85%8C%EC%8A%A4%ED%8A%B8/Cypress%20API.md)
   
   - **Nuxt**
+    - [CSR / SSR](https://github.com/plutoin/TIL/blob/master/Vue.js/Nuxt/CSR%20vs%20SSR.md)
+    - [Open Graph](https://github.com/plutoin/TIL/blob/master/Vue.js/Nuxt/Open%20Graph.md)
+    - [Nuxt / Heroku](https://github.com/plutoin/TIL/blob/master/Vue.js/Nuxt/Nuxt%20Heroku.md)
