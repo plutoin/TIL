@@ -1,6 +1,6 @@
 ## Nuxt / Heroku
 
-<img src="../images/7-7.png" width="550px" />
+<img src="../images/7-7.png" width="600px" />
 
 Netlify는 빌드된 결과를 저장하는 호스팅 서버이며, 단점을 보완하기 위해 서버리스 함수 제공함
 
@@ -11,7 +11,7 @@ SPA의 단점 중 하나인 SEO 제공 위해 SSR을 도입해야 하지만 Netl
 - 서버리스가 가능하도록 처리해 줄 수는 있으나 꽤 복잡한 기술을 필요로 함
 - Nuxt 프레임워크 도입으로 해결 가능
 
-<img src="../images/7-8.png" width="550px" />
+<img src="../images/7-8.png" width="600px" />
 
 <br/>
 
