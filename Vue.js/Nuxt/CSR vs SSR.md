@@ -4,7 +4,7 @@
 - 사용자가 웹 브라우저를 볼 수 있는 환경을 클라이언트
 - 클라이언트 측에서 렌더링이 일어나기 때문에 CSR이라고 부름
 
-<img src="../images/7-1.png" width="500px" />
+<img src="../images/7-1.png" width="550px" />
 
 사용자가 특정 사이트를 컴퓨터를 보고 싶어 한다고 가정
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="../images/7-2.png" width="500px" />
+<img src="../images/7-2.png" width="550px" />
 
 싱글 페이지 애플리케이션 방식 웹의 about 페이지로 접근했다고 가정
 
@@ -33,12 +33,12 @@
 
 : 서버에서 미리 렌더링을 진행하여 전송
 
-<img src="../images/7-3.png" width="500px" />
+<img src="../images/7-3.png" width="550px" />
 
 1. 사용자가 사이트 확인을 위해 서버로 요청 보냄
 2. 서버에서 사용자에게 보낼 데이터를 미리 렌더링하여 전송
 
-<img src="../images/7-4.png" width="500px" />
+<img src="../images/7-4.png" width="550px" />
 
 구글 검색 엔진이 어떤 웹의 상세 정보 페이지를 가져가려 한다고 가정
 
@@ -57,7 +57,7 @@
 - 화면을 하나씩 그려 가며 확인한다면 굉장히 비효율적
 - 그러므로 페이지 head 부분에 쓰여진 메타 정보만 확인함
 
-<img src="../images/7-5.png" width="500px" />
+<img src="../images/7-5.png" width="550px" />
 
 SSR 방식으로 렌더링할 경우
 
